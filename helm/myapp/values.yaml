@@ -1,0 +1,5 @@
+replicaCount: 3
+
+image:
+  repository: amitchoudhary007/myapp
+  tag: latest
